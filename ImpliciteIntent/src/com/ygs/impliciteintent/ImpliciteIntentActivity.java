@@ -8,7 +8,11 @@ import android.widget.Button;
 import android.app.Activity;
 import android.content.Intent;
 
-
+/**
+ * hitesh kamani
+ * @author Hit
+ *
+ */
 public class ImpliciteIntentActivity extends Activity implements OnClickListener {
 
 	Button btncall,btndial,btnbrows,btnemail,btncontact,btnsms;
